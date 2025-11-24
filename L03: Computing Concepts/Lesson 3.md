@@ -1,0 +1,2 @@
+# Computing Concepts Discussion
+I think I understand the three terms pretty well. One question I did have was about the difference between predictive and prescriptive. I know predictive is to figure out what is likely to happen in the future. Prescriptive also relates to the future, but is it more about insights from the present to change the future or working towards a goal based on insights from the past. 
