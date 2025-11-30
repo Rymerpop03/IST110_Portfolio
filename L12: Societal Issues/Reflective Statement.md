@@ -1,0 +1,1 @@
+Within lesson 12, we were introduced to the societal issues involving IT. I focused specifically on cybercrime for our assignment in this lesson. Within this assignment, I explained how common it is for cybercriminals to repeat their offense after being released. Overall, this assignment was very interesting and I enjoyed researching about cybercrime. 
