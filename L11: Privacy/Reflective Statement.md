@@ -1,1 +1,4 @@
+# Reflection
 Lesson 11 introduces the idea of data privacy and why it is important to be aware of where your data is being shared. We are living in the age of information, and people find information just as valuable as money nowadays. Within my discussion post, I did some research on how very few people realize how much of their data is being used for financial or presonal gain. Even when I look up my own name, there is lots of information about me online, including pictures of me from middle school and information about all of my previous schools and clubs I have attended. 
+# Skills
+Data Sharing, Data Privacy
