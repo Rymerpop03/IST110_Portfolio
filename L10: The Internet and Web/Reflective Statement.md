@@ -1,1 +1,4 @@
+# Reflection
 Within lesson 10, we dscussed the internet and the web. Within my discussion post for this lesson, I talked about different internet protocols such as TCP and UDP and how they allow devices to interact with each other. I also briefly talked about the ethical challenges of the internet and why it needs to be used responsibly. Finally, I mentioned some current global trends relating to the internet and web. We were given two assignemnts during this lesson, one was a programming assignment with Javascript and the other was another programming assignment with HTML. Both were relatively simple and great introductions to web-based programming. 
+# Skills
+Javascript, HTML
