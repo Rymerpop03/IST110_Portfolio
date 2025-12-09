@@ -1,4 +1,4 @@
-# Discussion
+# Reflection
 The first lesson basically introduced us to the general concept of IT and how it functions in different parts of the world. Within my discussion post, I talked
 about Information Sciences as it most relates to my work. I am a data science student, so I am constantly working with large databases and looking to become a data analyst or machine learning engineer. Lastly, we performed a virtual treasure hunt within this section, where we used scholarly databases to find articles relating to information overload. Overall, I believe this section was a great introduction to some of the concepts of IT. 
 
